@@ -17,6 +17,7 @@
     "address": "^1.2.2",
     "adjust-sourcemap-loader": "^4.0.0",
     "agent-base": "^6.0.2",
+    "react-intersection-observer": "^9.0.0",
     "ajv": "^6.12.6",
     "ajv-formats": "^2.1.1",
     "ajv-keywords": "^3.5.2",
